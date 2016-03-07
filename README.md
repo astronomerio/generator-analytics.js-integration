@@ -7,10 +7,14 @@ First, install [Yeoman](http://yeoman.io) and generator-astronomer-integration u
 
 ```bash
 npm install -g yo
-npm install -g generator-astronomer-integration
 ```
 
-Then generate your new project:
+cd into this repo and run
+```bash
+npm link
+```
+
+Now you can generate a new project using
 
 ```bash
 yo analytics.js-integration
