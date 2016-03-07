@@ -13,7 +13,7 @@ npm install -g generator-astronomer-integration
 Then generate your new project:
 
 ```bash
-yo astronomer-integration
+yo analytics.js-integration
 ```
 
 ## Getting To Know Yeoman
