@@ -1,5 +1,5 @@
 {
-  "name": "generator-astronomer-integration",
+  "name": "generator-analytics.js-integration",
   "version": "0.0.0",
   "description": "Astronomer analytics.js integration",
   "homepage": "astronomer.io",
@@ -40,7 +40,7 @@
       "mocha": true
     }
   },
-  "repository": "astronomerio/generator-astronomer-integration",
+  "repository": "astronomerio/generator-analytics.js-integration",
   "scripts": {
     "prepublish": "gulp prepublish",
     "test": "gulp"
